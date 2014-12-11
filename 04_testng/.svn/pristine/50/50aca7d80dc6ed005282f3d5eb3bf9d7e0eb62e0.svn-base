@@ -1,8 +1,0 @@
-package cviceni;
-
-public class Ukol2Test {
-
-	public void testKrat(int a, int b, int expected) {
-	}
-
-}
