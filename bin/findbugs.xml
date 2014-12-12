@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+ 
 <BugCollection version="3.0.0" sequence="1" timestamp="1418380645557" analysisTimestamp="1418380642442" release="">
   <Project projectName="04_testng">
     <Jar>C:\Users\Acer\Desktop\04_testng\bin</Jar>
