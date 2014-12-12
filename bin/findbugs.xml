@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.0" sequence="1" timestamp="1418380645557" analysisTimestamp="1418380642442" release="">
+  <Project projectName="04_testng">
+    <Jar>C:\Users\Acer\Desktop\04_testng\bin</Jar>
+    <AuxClasspathEntry>C:\Users\Acer\Desktop\04_testng\bin</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Acer\Desktop\04_testng\lib\testng-6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Program Files\Java\jre1.8.0_25\lib\rt.jar</AuxClasspathEntry>
+    <SrcDir>C:\Users\Acer\Desktop\04_testng\src</SrcDir>
+    <SrcDir>C:\Users\Acer\Desktop\04_testng\test</SrcDir>
+    <Cloud id="edu.umd.cs.findbugs.cloud.doNothingCloud" online="false"></Cloud>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Fri, 12 Dec 2014 11:27:02 +0100" total_classes="4" referenced_classes="16" total_bugs="0" total_size="43" num_packages="1" java_version="1.8.0_25" vm_version="25.25-b02" cpu_seconds="15.46" clock_seconds="33.86" peak_mbytes="375.48" alloc_mbytes="455.50" gc_seconds="2.48">
+    <PackageStats package="cviceni" total_bugs="0" total_types="4" total_size="43">
+      <ClassStats class="cviceni.Ukol1" sourceFile="Ukol1.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="cviceni.Ukol1Test" sourceFile="Ukol1Test.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="cviceni.Ukol2" sourceFile="Ukol2.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="cviceni.Ukol2Test" sourceFile="Ukol2Test.java" interface="false" size="10" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="676" invocations="317" avgMicrosecondsPerInvocation="2134" maxMicrosecondsPerInvocation="178458" standardDeviationMircosecondsPerInvocation="11469"/>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="380" invocations="2" avgMicrosecondsPerInvocation="190396" maxMicrosecondsPerInvocation="325691" standardDeviationMircosecondsPerInvocation="135295"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="306" invocations="16" avgMicrosecondsPerInvocation="19147" maxMicrosecondsPerInvocation="204688" standardDeviationMircosecondsPerInvocation="49411"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="278" invocations="13" avgMicrosecondsPerInvocation="21410" maxMicrosecondsPerInvocation="253058" standardDeviationMircosecondsPerInvocation="66957"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindPuzzlers" totalMilliseconds="272" invocations="4" avgMicrosecondsPerInvocation="68131" maxMicrosecondsPerInvocation="271238" standardDeviationMircosecondsPerInvocation="117263"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="240" invocations="76" avgMicrosecondsPerInvocation="3161" maxMicrosecondsPerInvocation="83673" standardDeviationMircosecondsPerInvocation="10758"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="130" invocations="318" avgMicrosecondsPerInvocation="410" maxMicrosecondsPerInvocation="2862" standardDeviationMircosecondsPerInvocation="223"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethodInvocations" totalMilliseconds="82" invocations="4" avgMicrosecondsPerInvocation="20682" maxMicrosecondsPerInvocation="82072" standardDeviationMircosecondsPerInvocation="35443"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1418380645557" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>
