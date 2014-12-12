@@ -8,7 +8,7 @@ public class Ukol1Test {
 	@Test
 	public void testFaktorial1() {
 		Assert.assertEquals(Ukol1.faktorial(0), 1);
-		Assert.assertEquals(Ukol1.faktorial(1), 1);ss
+		Assert.assertEquals(Ukol1.faktorial(1), 1);ssw
 	}
 	
 	@Test(expectedExceptions = IllegalArgumentException.class)
