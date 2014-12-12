@@ -14,6 +14,6 @@ public class Ukol2Test {
 	public Object[][] data() {
 		return new Object[][] {
 			{2, 3, 6},
-			{0, 3, 0}};
+			{0, 3, 0}};sfù
 	}
 }
